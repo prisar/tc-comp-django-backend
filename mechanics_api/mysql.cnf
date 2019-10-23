@@ -1,0 +1,6 @@
+[client]
+database = mechanics326673
+host = mechanics.c11s43otb5pq.us-east-1.rds.amazonaws.com
+port = 3306
+user = admin
+password = fafdf725c4a04b70
